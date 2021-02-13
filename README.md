@@ -19,17 +19,18 @@
    * Seek
    * Delete
  * Memory Usage
- * Arrays
- * Maps
- * Sets
- * DOM Trees
- * Hash Tables
- * Hash Maps
- * Stacks
- * Queues
- * Graphs
- * Trees
- * Heaps
+ * Array
+ * Vector
+ * Map
+ * Set
+ * DOM Tree
+ * Hash Table
+ * Hash Map
+ * Stack
+ * Queue
+ * Graph
+ * Tree
+ * Heap
 
 ## Object Orientated Design
 * Common Design Patterns
