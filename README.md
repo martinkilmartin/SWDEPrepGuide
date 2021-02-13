@@ -152,8 +152,65 @@
   * Performance Implications
   * Security
 * Browsers
-  * Security
   * Native API Methods
   * Local Storage
   * Compatability
   * Progressive Web Apps
+* Security
+  * Web Security model
+    * Same-origin policy
+    * Cross-origin resource sharing
+    * Content Security Policy
+    * Hashes and nonces
+    * Subresource integrity
+  * Client vs. server security
+    * Client-side security
+    * Server-side security
+    * HTTPS Communication
+    * Tokens vs. sessions
+  * Security vulnerabilities
+    * OWASP Top 10
+    * Cross-site scripting
+    * Cross-site request forgery
+    * JWT Hacking
+  * Application architecure
+    * Role-based access control design
+    * Application architecure
+    * Authentication vs. authorization
+    * Secured API
+    * Router Guards
+    * Http Interceptors
+  * Client security implementation
+    * Content Security Policy
+    * XSS prevention
+    * CSRF prevention
+    * HttpOnly and Secure Cookies
+    * UserAuth object
+    * Conditional components visibility
+  * API security implementation
+    * Sever-side session
+    * Logging access and application events
+    * Throttling failed logins
+    * Input sanitization and validation
+    * Two vectors of authorization
+    * Preventing unauthorized requests
+    * CORS
+  * Roles and account management
+    * Adding new user accounts
+    * Confirming new user accounts
+    * Password recovery
+    * Managing active sessions
+    * Removing logged users
+  * External authentication
+    * OAuth 2.0
+    * Authorization Code Flow + PKCE
+    * Id Token vs. Access Token
+    * OpenID Connect (OIDC)
+  * Multi-factor authentication
+    * Setting up 2FA
+    * Requesting one-time password (OTP)
+    * Validating one-time password (OTP)
+  * External user management
+    * Federated identity management (FIM)
+    * Single sign-on (SSO)
+    * IDaaS - Identity as a Service
