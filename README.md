@@ -125,6 +125,43 @@
 * Content Protection Schemes
 * System Development Kit (SDK) Design
 
+## Scripting & Regular Expressions
+* Unix
+* grep
+* sed
+* awk
+* bash
+* perl
+* python
+* Ruby
+
+## Bits & Bytes
+* Integer-overflow
+* Logical operations
+  * AND &&
+  * OR  ||
+  * NOT !
+ * Bitwise operatorions
+  * AND &
+  * OR  |
+  * XOR ^
+ * Bitwise shift operations
+  * <<  Left
+  * >>  Right
+  * >>> Unsigned Right
+ * Primitive types
+  * byte
+  * short
+  * int
+  * long
+  * float
+  * double
+  * char
+  * boolean
+ * Signed vs. unsigned types
+ * Most significant bit / high-order bit / left-most bit
+  * Two's complement / Signed Binary Number
+
 ## Web
 * Reusable Components
 * Application State Management
