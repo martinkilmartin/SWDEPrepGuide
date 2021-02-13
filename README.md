@@ -147,8 +147,8 @@
   * XOR ^
  * Bitwise shift operations
   * <<  Left
-  * >>  Right
-  * >>> Unsigned Right
+  * \>\>  Right
+  * \>\>\> Unsigned Right
  * Primitive types
   * byte
   * short
