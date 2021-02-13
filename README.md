@@ -1,7 +1,7 @@
-# Software Development Engineer Preparation Guide
+# Software Development Engineer Interview Preparation Guide
 
 ## Coding
-* Algorithms
+### Algorithms
  * Graph / Tree Traversals
    * Breadth First Search
    * Depth First Search
@@ -12,7 +12,7 @@
  * Memoization
  * Runtimes (Big O Notation)
  * Theoretical Limitations
-* Data Structures
+### Data Structures
  * Common Operation Runtime
  * Memory Usage
  * Arrays
@@ -30,29 +30,33 @@
 ## Object Orientated Design
 * Common Design Patterns
 * Inheritence
+* Composition
 * Aggregation
-* class, object (and the difference between the two)
-* instantiation
-* method (as opposed to, say, a C function)
-* virtual method, pure virtual method
-* class/static method
-* static/class initializer
-* constructor
-* destructor/finalizer
-* superclass or base class
-* subclass or derived class
-* encapsulation
-* multiple inheritance (and give an example)
-* delegation/forwarding
-* composition/aggregation
-* abstract class
-* interface/protocol (and different from abstract class)
-* method overriding
-* method overloading (and difference from overriding)
-* polymorphism (without resorting to examples)
-* is-a versus has-a relationships (with examples)
-* method signatures (what's included in one)
-* method visibility (e.g. public/private/other) 
+* Class v. Object
+* Instantiation
+* Java method v. C function
+* Virtual method v Pure virtual method
+* Static method
+* Static Class initializer
+* Constructor
+* Destructor / finalizer
+* Superclass / base class
+* Subclass / derived class
+* Encapsulation
+* Multiple inheritance 
+* Delegation / forwarding
+* Abstract class
+* Interface / protocol
+* Method overriding
+* Method overloading
+* Polymorphism 
+* is-a versus has-a relationships
+* Method signatures
+* Method visibility
+  * private
+  * default
+  * protected
+  * public
 
 ## Functional Programming
 
@@ -77,11 +81,11 @@
 ## Architecture
 * Scalability
 * Concurrency
- * threads
- * deadlock
- * starvation
- * consistency
- * coherence
+  * threads
+  * deadlock
+  * starvation
+  * consistency
+  * coherence
 
 ## Networking
 * IPC
@@ -120,10 +124,10 @@
 * Reusable Components
 * Application State Management
 * Javascript
- * Iteration
- * Closures
- * Scope
- * Asynchronous Code
+  * Iteration
+  * Closures
+  * Scope
+  * Asynchronous Code
 * Typescript
 * JSON
 * Resource Caching
@@ -134,17 +138,17 @@
 * Browser / Devide Rendering Efficiency
 * Data FLows
 * Operational Performance
- * Acceptable Performance Levels
- * Troubleshooting
- * Points Of Failure & Mitigation
+  * Acceptable Performance Levels
+  * Troubleshooting
+  * Points Of Failure & Mitigation
 * Devices
- * System Availability
- * Efficient Resource Usage
- * Performance Implications
- * Security
+  * System Availability
+  * Efficient Resource Usage
+  * Performance Implications
+  * Security
 * Browsers
- * Security
- * Native API Methods
- * Local Storage
- * Compatability
- * Progressive Web Apps
+  * Security
+  * Native API Methods
+  * Local Storage
+  * Compatability
+  * Progressive Web Apps
