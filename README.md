@@ -95,6 +95,8 @@
 ## Networking
 * IPC
 * TCP/IP
+* UDP
+* DNS
 
 ## Real-world performance
 * relative performance RAM
