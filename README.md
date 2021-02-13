@@ -224,7 +224,9 @@
     * Content Security Policy
     * XSS prevention
     * CSRF prevention
-    * HttpsOnly and Secure Cookies
+    * HttpOnly Cookies
+      * Set-Cookie HTTP response header that helps mitigate the risk of client side script accessing the protected cookie (if the browser supports it).
+    * Secure Cookies
     * UserAuth object
     * Conditional components visibility
   * API security implementation
