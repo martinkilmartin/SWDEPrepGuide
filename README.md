@@ -99,9 +99,9 @@
 * DNS
 
 ## Real-world performance
-* relative performance RAM
-* disk
-* network
+* Relative performance RAM
+* Disk
+* Network
 * SSD
 
 ## Availability & Reliability
@@ -140,13 +140,13 @@
 ## Bits & Bytes
 * Integer-overflow
 * Logical operations
-  * AND &&
-  * OR  ||
-  * NOT !
+  * &&  AND
+  * ||  OR
+  * !   NOT
 * Bitwise operatorions
-  * AND &
-  * OR  |
-  * XOR ^
+  * & AND
+  * | OR
+  * ^ XOR
 * Bitwise shift operations
   * <<  Left
   * \>\>  Right
@@ -224,7 +224,7 @@
     * Content Security Policy
     * XSS prevention
     * CSRF prevention
-    * HttpOnly and Secure Cookies
+    * HttpsOnly and Secure Cookies
     * UserAuth object
     * Conditional components visibility
   * API security implementation
