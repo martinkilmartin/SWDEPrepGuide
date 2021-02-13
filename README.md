@@ -1,7 +1,10 @@
-# Software Development Engineer Interview Preparation Guide
+# Software Development Engineer Interview Knowledge Guide
 
 ## Coding
 ### Algorithms
+ * Runtimes (Big O Notation)
+ * Space complexity 
+ * Theoretical Limitations
  * Graph / Tree Traversals
    * Breadth First Search
    * Depth First Search
@@ -10,10 +13,11 @@
  * Recursion
  * Divide & Conquer
  * Memoization
- * Runtimes (Big O Notation)
- * Theoretical Limitations
 ### Data Structures
  * Common Operation Runtime
+   * Insert
+   * Seek
+   * Delete
  * Memory Usage
  * Arrays
  * Maps
@@ -59,6 +63,7 @@
   * public
 
 ## Functional Programming
+* λ-calculus
 
 ## System Design
 * Service Orientated Architecture
