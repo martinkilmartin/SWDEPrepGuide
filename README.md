@@ -141,15 +141,15 @@
   * AND &&
   * OR  ||
   * NOT !
- * Bitwise operatorions
+* Bitwise operatorions
   * AND &
   * OR  |
   * XOR ^
- * Bitwise shift operations
+* Bitwise shift operations
   * <<  Left
   * \>\>  Right
   * \>\>\> Unsigned Right
- * Primitive types
+* Primitive types
   * byte
   * short
   * int
@@ -158,8 +158,8 @@
   * double
   * char
   * boolean
- * Signed vs. unsigned types
- * Most significant bit / high-order bit / left-most bit
+* Signed vs. unsigned types
+* Most (Least) significant bit / high(low)-order bit / left(right)-most bit
   * Two's complement / Signed Binary Number
 
 ## Web
