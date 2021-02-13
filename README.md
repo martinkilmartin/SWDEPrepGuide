@@ -78,19 +78,19 @@
 
 ## Databases
 * Relational v Non-Relational
-* partitioning
-* replication
-* sharding
+* Partitioning
+* Replication
+* Sharding
 * CAP Theorem
 
 ## Architecture
 * Scalability
 * Concurrency
-  * threads
-  * deadlock
-  * starvation
-  * consistency
-  * coherence
+  * Threads
+  * Deadlock
+  * Starvation
+  * Consistency
+  * Coherence
 
 ## Networking
 * IPC
@@ -140,9 +140,9 @@
 ## Bits & Bytes
 * Integer-overflow
 * Logical operations
-  * &&  AND
-  * ||  OR
-  * !   NOT
+  * && AND
+  * || OR
+  * !  NOT
 * Bitwise operatorions
   * & AND
   * | OR
@@ -216,7 +216,7 @@
   * Application architecure
     * Role-based access control design
     * Application architecure
-    * Authentication vs. authorization
+    * Authentication vs. Authorization
     * Secured API
     * Router Guards
     * Http Interceptors
