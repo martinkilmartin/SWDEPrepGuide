@@ -1,8 +1,16 @@
-# Software Development Engineer Interview Knowledge Guide
+# Software Development Engineer Knowledge Guide
 
 ## Coding
 ### Algorithms
  * Runtimes (Big O Notation)
+   * O(1)       constant-time
+   * O(log n)   logarithmic
+   * O(n)       linear
+   * O(n log n) log linear
+   * O(n^2)     quadratic
+   * O(n^3)     cubic
+   * O(2^n)     exponential
+   * O(n!)      factorial
  * Space complexity 
  * Theoretical Limitations
  * Graph / Tree Traversals
