@@ -172,6 +172,7 @@
   * Asynchronous Code
 * Typescript
 * JSON
+* REpresentational State Transfer
 * Resource Caching
 * Content Delivery
 * Asynchronous Programming
