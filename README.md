@@ -13,11 +13,15 @@
    * O(n!)      factorial
  * Space complexity 
  * Theoretical Limitations
- * Graph / Tree Traversals
-   * Breadth First Search
-   * Depth First Search
  * Sorting
  * Searching
+ * Tree Traversal
+   * Pre-Order
+   * In-Order
+   * Post-Order
+ * Tree Search 
+   * Breadth First Search
+   * Depth First Search
  * Recursion
  * Divide & Conquer
  * Memoization
@@ -31,13 +35,14 @@
  * Vector
  * Map
  * Set
- * DOM Tree
  * Hash Table
  * Hash Map
  * Stack
  * Queue
  * Graph
+   * **Everything** is a graph.
  * Tree
+   * DOM
  * Heap
 
 ## Object Orientated Design
