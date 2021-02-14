@@ -168,6 +168,8 @@
 * Load Balancing
 
 ## Client Development
+* Accessibility
+* UX
 * Graphics Libraries
 * Computational Geometry
 * Hardware Integration
@@ -212,8 +214,13 @@
   * Two's complement / Signed Binary Number
 
 ## Web
+* Accessibility
+* UX
+* SEO
 * Reusable Components
 * Application State Management
+* HTML5
+* CSS
 * Javascript
   * Iteration
   * Closures
