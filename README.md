@@ -73,6 +73,10 @@
 
 ## Functional Programming
 * λ-calculus
+* Higher-Order functions 
+* Pure functions 
+* First-Class functions 
+* Immutability 
 
 ## System Design
 * Service Orientated Architecture
