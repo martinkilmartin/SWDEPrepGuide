@@ -77,6 +77,8 @@
 ## System Design
 * Service Orientated Architecture
 * Caching
+  * Memcached
+  * Redis (Remote Dictionary Server)
 * N-Tiered Architecture
 
 ## Operating Systems
