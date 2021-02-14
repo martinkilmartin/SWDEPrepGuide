@@ -176,6 +176,12 @@
 * Content Protection Schemes
 * System Development Kit (SDK) Design
 
+## Testing
+
+## Debugging 
+
+## DevOps
+
 ## Scripting & Regular Expressions
 * Unix
 * grep
