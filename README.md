@@ -79,6 +79,7 @@
 * Caching
   * Memcached
   * Redis (Remote Dictionary Server)
+    * In-Memory DataBase that persists on disk with a key-value data model supporting many different types of values such as Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs and Bitmaps.
 * N-Tiered Architecture
 
 ## Operating Systems
