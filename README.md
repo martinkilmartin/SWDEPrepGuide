@@ -46,7 +46,33 @@
  * Heap
 
 ## Object Orientated Design
-* Common Design Patterns
+* Design Patterns
+  * Creational Patterns
+    * Abstract Factory
+    * Factory Method
+    * Builder
+    * Prototype 
+    * Singleton
+  * Structural Patterns
+    * Adapter
+    * Bridge
+    * Composite
+    * Decorator
+    * Facade
+    * Flyweight
+    * Proxy
+  * Behavioural Patterns
+    * Chain of Responsibility
+    * Command
+    * Interpreter
+    * Iterator
+    * Mediator
+    * Memento
+    * Observer
+    * State
+    * Strategy
+    * Template
+    * Visitor
 * Inheritence
 * Composition
 * Aggregation
