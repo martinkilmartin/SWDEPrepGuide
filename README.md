@@ -109,7 +109,11 @@
 ## Functional Programming
 * λ-calculus
 * Higher-Order functions 
-* Pure functions 
+* Pure functions
+  * avoid:
+    * shared state
+    * mutable data
+    * side-effects
 * First-Class functions 
 * Immutability 
 
