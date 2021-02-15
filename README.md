@@ -74,12 +74,16 @@
     * Template
     * Visitor
 * Inheritence
+  * Relating classes so they may use another class's members without redefining them.
 * Composition
+  * Creating complex types by combining objects of other types modelling a **has a** relationship.
 * Aggregation
-* Class v. Object
+  * Association between objects where each object has its own life cycle but an ownership exists as well.
+* Class vs. Object
+  * Blueprint vs. Instance 
 * Instantiation
-* Java method v. C function
-* Virtual method v Pure virtual method
+* Java method vs. C function
+* Virtual method vs. Pure virtual method
 * Static method
 * Static Class initializer
 * Constructor
