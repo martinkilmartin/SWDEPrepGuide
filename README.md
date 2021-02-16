@@ -317,9 +317,7 @@
     * Id Token vs. Access Token
     * OpenID Connect (OIDC)
   * Multi-factor authentication
-    * Setting up 2FA
-    * Requesting one-time password (OTP)
-    * Validating one-time password (OTP)
+    * One-time password (OTP)
   * External user management
     * Federated identity management (FIM)
     * Single sign-on (SSO)
