@@ -108,7 +108,8 @@
 
 ## Functional Programming
 * λ-calculus
-* Higher-Order functions 
+* Higher-Order functions
+  * Take function(s) as argument(s) or return function(s).
 * Pure functions
   * avoid:
     * shared state
