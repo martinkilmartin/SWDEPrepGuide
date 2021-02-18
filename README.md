@@ -125,6 +125,10 @@
   * Redis (Remote Dictionary Server)
     * In-Memory DataBase that persists on disk with a key-value data model supporting many different types of values such as Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs and Bitmaps.
 * N-Tiered Architecture
+* Message Broker
+  * RabbitMQ
+* Container-Orchestration
+  * Kubernetes
 
 ## Operating Systems
 * Memory Management
@@ -133,7 +137,15 @@
 * Multithreading
 
 ## Databases
-* Relational v Non-Relational
+* Relational
+  * PostgreSQL
+* Non-Relational
+  * MongoDB
+  * Cassandra
+  * Apache HBase
+  * AWS Dynamo
+  * AWS ElastiCache
+  * Google Cloud Datastore
 * Partitioning
 * Replication
 * Sharding
@@ -175,6 +187,8 @@
 * Map-Reduce
 * Distributed Caching Systems
 * Load Balancing
+* Event Streaming
+  * Apache Kafka
 
 ## Client Development
 * Accessibility
