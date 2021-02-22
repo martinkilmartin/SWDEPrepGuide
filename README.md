@@ -183,6 +183,7 @@
 * Multiple inheritance 
 * Delegation / forwarding
 * Abstract class
+  * An abstract class is a class that cannot be instantiated. We create abstract classes to provide a common template for other classes to extend and use. An abstract class may contain both abstract and non-abstract properties and functions.
 * Interface / protocol
 * Method overriding
 * Method overloading
