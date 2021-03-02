@@ -209,6 +209,14 @@
 * Immutability 
 
 ## System Design
+* Requirements Clarification
+  
+| Users / Customers | Scale (reads / writes) | Performance | Cost |
+| --- | --- | --- | --- | --- |
+
+| Functional Requirements | Non-Functional Requirements  |
+| --- | --- | --- | --- | --- |
+
 * Service Orientated Architecture
 * Caching
   * Memcached
@@ -229,17 +237,46 @@
 ## Databases
 * Relational
   * PostgreSQL
+  * MySQL
+  * SQLite
 * Non-Relational
+  * **Document Database**
+    * Stores data in JSON, BSON , or XML documents
+    * Use cases include ecommerce platforms, trading platforms, and mobile app development across industries.
+  * **Key-Value Store**
+    * Use cases include shopping carts, user preferences, and user profiles.
+  * **Column-Oriented Databases**
+    * Use cases include analytics.
+  * **Graph Databases**
+    * A graph database is optimized to capture and search the connections between data elements, overcoming the overhead associated with JOINing multiple tables in SQL.
+    * Use cases include fraud detection, social networks, and knowledge graphs.
   * MongoDB
+    * Document orientated database that uses leader-based replication
   * Cassandra
+    * Wide column database that supports asynchronous master replication
+    * Fault tolerant
+    * Linear Scalability
+    * Multi-Data-center replication
   * Apache HBase
+    * Wide column database that supports master replication
+    * Linear and modular scalability.
+    * Strictly consistent reads and writes.
+    * Automatic and configurable sharding of tables.
+    * Automatic failover support between RegionServers.
   * AWS Dynamo
+    * Key-value and document database
+    * Delivers single-digit millisecond performance at any scale.
+    * In-memory caching for internet-scale applications.
   * AWS ElastiCache
   * Google Cloud Datastore
 * Partitioning
 * Replication
 * Sharding
 * CAP Theorem
+  * Computer scientist Eric Brewer, states that it is impossible for a distributed data store to simultaneously provide more than two out of the following three guarantees:
+    * **Consistency**: Every read receives the most recent write or an error
+    * **Availability**: Every request receives a (non-error) response, without the guarantee that it contains the most recent write
+    * **Partition tolerance**: The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes
 
 ## Architecture
 * Scalability
