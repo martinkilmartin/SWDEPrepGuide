@@ -217,6 +217,17 @@
 | Functional Requirements | Non-Functional Requirements  |
 | --- | --- | --- | --- | --- |
 
+* Ingestion Components
+
+| Partitioner Service Client | Load Balancer | Partitioner Service and Partitions |
+| --- | --- | --- |
+| Blocking v non-blocking I/O | Software v hardware load balancing | Partition strategy |
+| Buffering and batching | Network Protocols | Service discovery |
+| Timeouts | Load balancing algorithms | Replication |
+| Retries | DNS | Message Format |
+| Exponential back-off and jitter | Health checking | |
+| Circuit breaker | High availability | |
+
 * Service Orientated Architecture
 * Caching
   * Memcached
