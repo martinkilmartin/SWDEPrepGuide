@@ -91,49 +91,6 @@
 * Version Control System (VCS) | Software Configuration Management (SCM)
 ** Git
 
-### Testing
-
-### Debugging 
-
-### DevOps
-
-## Scripting & Regular Expressions
-* Unix
-* grep
-* sed
-* awk
-* bash
-* perl
-* python
-* Ruby
-
-## Bits & Bytes
-* Integer-overflow
-* Logical operations
-  * && AND
-  * || OR
-  * !  NOT
-* Bitwise operatorions
-  * & AND
-  * | OR
-  * ^ XOR
-* Bitwise shift operations
-  * <<  Left
-  * \>\>  Right
-  * \>\>\> Unsigned Right
-* Primitive types
-  * byte
-  * short
-  * int
-  * long
-  * float
-  * double
-  * char
-  * boolean
-* Signed vs. unsigned types
-* Most (Least) significant bit / high(low)-order bit / left(right)-most bit
-  * Two's complement / Signed Binary Number
-
 ## Object Orientated Design
 * Design Patterns
   * Creational Patterns
