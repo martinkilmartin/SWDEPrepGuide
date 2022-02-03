@@ -43,7 +43,7 @@
    * **Everything** is a graph.
  * Tree
    * DOM
- * Hea
+ * Heap
 ### Testing
 
 ### Debugging 
